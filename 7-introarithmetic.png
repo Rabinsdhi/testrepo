@@ -1,0 +1,194 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "f2e2aeac-333c-4177-9007-2307095379dd",
+   "metadata": {},
+   "source": [
+    "#data science tools and ecosystem\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fd853fbf-cfa6-4633-a276-804b7b6c70ef",
+   "metadata": {},
+   "source": [
+    "this is an introduction for data science and ecosystem\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "a0f6c0f6-c329-4d15-983d-9a5ccb161504",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "some popular languages that data scientists uses are:\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"some popular languages that data scientists uses are:\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e0bfcedf-8097-467a-92b4-a9603331280c",
+   "metadata": {},
+   "source": [
+    "1. Python  \n",
+    "2. R  \n",
+    "3. SQL  \n",
+    "4. Julia\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "4250d449-88c7-4d9b-a9c0-ffbc0e78dd0b",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Some of the commonly used libraries used by Data Scientists include:\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Some of the commonly used libraries used by Data Scientists include:\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "79ac7eb0-3d2f-4a0b-83d3-2b34a07f50d9",
+   "metadata": {},
+   "source": [
+    "1. NumPy  \n",
+    "2. Pandas  \n",
+    "3. Matplotlib  \n",
+    "4. Scikit-learn\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "250a623f-bb14-4c2f-8894-17da3090668a",
+   "metadata": {},
+   "source": [
+    "| Data Science Tools       |\n",
+    "|--------------------------|\n",
+    "| Jupyter Notebook         |\n",
+    "| RStudio                  |\n",
+    "| Google Colab             |\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f9a52cf7-f194-4706-a16b-2a998cf385bf",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "efb1b7bd-7f35-4271-badd-feba0624df5c",
+   "metadata": {},
+   "source": [
+    "### This is a simple arithmetic expression to multiply then add integers\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "20725ffb-b8ff-4601-a57f-05c422071c84",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "17\n"
+     ]
+    }
+   ],
+   "source": [
+    "print((3*4)+5)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d6052ecf-d450-456a-b50e-e7a3f30bbeb9",
+   "metadata": {},
+   "source": [
+    "### This will convert 200 minutes to hours by diving by 60"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "41e96e11-fac3-482b-8a8a-08ba8a65fdfe",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "3.3333333333333335\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(200 / 60)\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "40565bfc-97e0-40e0-ab10-083919826250",
+   "metadata": {},
+   "source": [
+    "**Objectives:**\n",
+    "\n",
+    "- List popular languages for Data Science  \n",
+    "- List commonly used libraries by Data Scientists  \n",
+    "- Create and format Markdown cells in Jupyter Notebook  \n",
+    "- Perform basic arithmetic operations using Python code cells  \n",
+    "- Create and display tables using Markdown\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3af8369e-2fc3-4887-8ddf-3ea6d90ac9c3",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
